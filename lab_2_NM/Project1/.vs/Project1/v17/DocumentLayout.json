@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79028\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0428\u042D \u0443\u0447\u0435\u0431\u0430\\3 \u041A\u0443\u0440\u0441\\\u0427\u0438\u0441\u043B\u0435\u043D\u043D\u044B\u0435 \u043C\u0435\u0442\u043E\u0434\u044B\\lab_2_NM\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25DFDC31-3E5F-4BF0-88DF-248B11491448}|Project1\\Project1.vcxproj|C:\\Users\\79028\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0428\u042D \u0443\u0447\u0435\u0431\u0430\\3 \u041A\u0443\u0440\u0441\\\u0427\u0438\u0441\u043B\u0435\u043D\u043D\u044B\u0435 \u043C\u0435\u0442\u043E\u0434\u044B\\lab_2_NM\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25DFDC31-3E5F-4BF0-88DF-248B11491448}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\79028\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0428\u042D \u0443\u0447\u0435\u0431\u0430\\3 \u041A\u0443\u0440\u0441\\\u0427\u0438\u0441\u043B\u0435\u043D\u043D\u044B\u0435 \u043C\u0435\u0442\u043E\u0434\u044B\\lab_2_NM\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\79028\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0428\u042D \u0443\u0447\u0435\u0431\u0430\\3 \u041A\u0443\u0440\u0441\\\u0427\u0438\u0441\u043B\u0435\u043D\u043D\u044B\u0435 \u043C\u0435\u0442\u043E\u0434\u044B\\lab_2_NM\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-20T17:33:13.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
